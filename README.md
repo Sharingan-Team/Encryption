@@ -18,8 +18,8 @@ This project is an end-to-end cryptography application that combines hybrid encr
 
 1. Clone this repository:
     ```bash
-    git clone <REPOSITORY_URL>
-    cd <REPOSITORY_NAME>
+    git clone git@github.com:Sharingan-Team/innov-digital-encryption.git
+    cd innov-digital-encryption
     ```
 
 2. Install the required dependencies:
